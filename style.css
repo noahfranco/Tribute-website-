@@ -1,0 +1,88 @@
+#main {
+
+}
+
+#title {
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+}
+#img-div {
+  align-content: center;
+  padding: 10px;
+  margin: 10px;
+  image-orientation: 5px;
+}
+
+.align-text {
+  text-align: center;
+}
+
+a {
+  margin: 5px;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 50px;
+  font-style: italic;
+}
+
+.link-color {
+  color: #ffffff;
+}
+
+#tribute-link:before {
+content: "These links lead to more information about Elon Musk";
+}
+
+#tribute-info:before {
+  content: "This is the section of the page where the life of";
+}
+
+#img-caption:after {
+  content: "Elon Musk";
+}
+
+#image {
+  height: auto;
+  width: auto;
+  max-height: 550px;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#box-body {
+  max-width: 90rem;
+  border: sold;
+  background-color: #808080;
+  margin: 5rem auto;
+  border-radius: 0.0%;
+  color: #FFFFFF;
+}
+
+.border-style {
+  border-radius: 190px;
+  border-color: #000000;
+  border-style: solid;
+}
+
+#footer {
+  max-width: 90rem;
+  border: sold;
+  background-color: #000000;
+  margin: 5rem auto;
+  border-radius: 0.0%;
+  color: #ffffff
+
+}
+
+#box-heading {
+  max-width: 90rem;
+  border: solid;
+  background-color: #000000;
+  margin: 5rem auto;
+  border-radius: 0.8%;
+  color: #ffffff;
